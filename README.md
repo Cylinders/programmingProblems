@@ -9,4 +9,5 @@ LeetCode, Advent of Code, Project Euler, ETC. Done with whatever language I am l
 2. **MISSING NUMBER**
 3. **REPETITIONS**
 4. **INCREASING ARRAY**
+
 *IN PROGRESS: 5. PERMUTATIONS*
