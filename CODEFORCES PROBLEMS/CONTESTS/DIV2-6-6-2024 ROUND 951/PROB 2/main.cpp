@@ -7,7 +7,8 @@ using namespace std;
 
 
 int main() {
-
+    int b = 6^1;
+    cout << b;
     int numTries;
     cin >> numTries;
 
